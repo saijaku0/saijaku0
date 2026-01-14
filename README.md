@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saijaku0&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saijaku0&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saijaku0&theme=dark)
+
 <!--
 **saijaku0/saijaku0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

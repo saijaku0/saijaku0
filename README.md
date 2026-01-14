@@ -1,6 +1,6 @@
 
 <div align="left">
-  <h1><code>public class Saijku : Develop, SoftwareEngineer</code></h1>
+  <h1><code>public class Saijaku : Develop, SoftwareEngineer</code></h1>
 </div>
 
 <div align="center">

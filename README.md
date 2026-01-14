@@ -1,10 +1,21 @@
-## Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saijaku0&theme=dark)
+<div align="left">
+  <h1><code>public class Saijku : Develop, SoftwareEngineer</code></h1>
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saijaku0&theme=dark)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,angular,nextjs,git,vscode,visualstudio&theme=dark" />
+  </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saijaku0&theme=dark)
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saijaku0&theme=dark" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saijaku0&theme=dark" width="400" />
+
+  <br><br>
+
+</div>
 
 <!--
 **saijaku0/saijaku0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
